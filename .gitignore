@@ -47,6 +47,7 @@ terraform.rc
 *.retry
 ansible.log
 .ansible/
+Terraform/ec2_ip.txt
 .vault_pass
 .vault_password
 .vault-password-file
